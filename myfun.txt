@@ -6,3 +6,6 @@ added new chart
 my bad
 
 addeding new function to login use via x method
+
+added useless lines
+new code
