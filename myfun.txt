@@ -1,6 +1,8 @@
-onefunction - this is imp code
+onefunction - this is veryimp code
 twofunction - this is very imp code
 threefunction - this is not imp code
 
 added new chart
 my bad
+
+added a code for logout
