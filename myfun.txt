@@ -5,4 +5,4 @@ threefunction - this is not imp code
 added new chart
 my bad
 
-added a code for logout
+addeding new function to login use via x method
